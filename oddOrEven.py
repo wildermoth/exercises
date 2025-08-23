@@ -18,10 +18,7 @@ def odd_or_even(provided_number: int) -> str:
         return "Odd"
     
 def main() -> None:
-    print(odd_or_even(1.5))
+    print(odd_or_even(1))
 
 if __name__ == "__main__":
     main()
-
-    print("final resolved conflict")
-
