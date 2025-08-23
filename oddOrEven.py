@@ -22,4 +22,6 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-    print("conflict feature")
+
+    print("final resolved conflict")
+
