@@ -20,4 +20,3 @@ def main(maximum_number: int) -> int:
 
 if __name__ == "__main__":
     print(main(10))
-    print("main branch print")
