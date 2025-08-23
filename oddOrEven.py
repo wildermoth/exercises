@@ -22,5 +22,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-    print("main occured")
-    print(odd_or_even(1.5))
