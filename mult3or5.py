@@ -21,5 +21,5 @@ def main(maximum_number: int) -> int:
 
 if __name__ == "__main__":
     print(main(10))
-    print("line update 1 main - conflict resolved")
-    print("line update 2 main - conflict resolved")
+    print("line update 1 main - conflict resolved main")
+    print("line update 2 main - conflict resolved main")
