@@ -23,3 +23,4 @@ if __name__ == "__main__":
     print(main(10))
     print("line update 1 main - conflict resolved main")
     print("line update 2 main - conflict resolved main")
+    print("1")
